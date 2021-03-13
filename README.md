@@ -1,0 +1,5 @@
+- 👋 Hola, soy @Edumaximus.
+- 👀 Estoy interesado en el mundo del Desarrollo de Software, estratégia, etc. Siempre estoy interesado en aprender cada vez más.
+- 🌱 Actualmente estoy aprendiendo Desarrollo de Software, como lenguaje de programación JavaScript, HTML,, HTML5, CSS, ¡Y muchos más!
+- 💞️ Estoy buscando colaborar en algún que otro proyecto de un servidor de Roleplay para la plataforma de RAGE Multiplayer.
+- 📫 Como llegar a mí: Siempre puedes contactar conmigo a través de la plataforma Discord, enviándome una solicitud de amistad, y hablándome al MD; Edumaximus#3785
